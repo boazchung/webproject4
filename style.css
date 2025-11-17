@@ -1,0 +1,35 @@
+     body
+            {
+                font-family: "Dancing Script", cursive;
+                 background-color: antiquewhite;
+            }
+            .nav
+            {
+                list-style: none;
+                display:flex;
+                font-family: "Georgia", sans-serif;
+            }
+            li
+            {
+                display:inline-block;
+                font-size: large;
+                padding: 15px;
+            }
+     
+        section
+            {
+                border: dashed;
+                background-color: white;
+                padding:15px;
+                
+            }
+.topnav
+{
+    background-color:lightgray;
+    color:white;
+}
+.nav
+{
+    background-color: lightgray;
+    
+}
